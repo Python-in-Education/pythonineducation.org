@@ -22,8 +22,7 @@ intelligence wins every time.
 * *No-one knows what they are doing*, so help out and (you guessed it) get
   involved.
 
-We expect contributors to follow the Python Software Foundation's Code of
-Conduct: https://www.python.org/psf/codeofconduct/
+We expect contributors to follow the Python in Education Community Code of Conduct. Please read the code of conduct file in the repo. 
 
 Feedback may be given for contributions and, where necessary, changes will
 be politely requested and discussed with the originating author. Respectful
@@ -34,6 +33,8 @@ Checklist
 
 * You have the legal authority to contribute your content and code under the
   license we use (see the LICENSE file in this repository).
+* You can contribute or own idea or select a card from the project board. 
+  If you are working on a card, please add your name to it. 
 * When appropriate, your code should be commented.
 * If your contribution is for a major block of work and you've not done so
   already, add yourself to the AUTHORS file following the convention found
